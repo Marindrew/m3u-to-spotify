@@ -47,7 +47,6 @@ def import_tracks(file, sp):
             print('Found {}'.format(track_name.encode('utf-8')))
 
         if found is None:
-            # print('Not found, searching {}'.format(alternative_name.encode('utf-8')))
             found = find_spotify(alternative_name)
             if found is not None:
                 print('Found {}'.format(alternative_name.encode('utf-8')))
