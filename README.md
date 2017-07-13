@@ -4,7 +4,7 @@ m3u-to-spotify
 Part 1: Download `.m3u` playlist from vk.com
 --------------------
 
-You can use [https://chrome.google.com/webstore/detail/musicsig-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-vk/hanjiajgnonaobdlklncdjdmpbomlhoa](Music Sig) to download `.m3u` playlist from vk.com. Save it in the project folder.
+You can use [MusicSig](https://chrome.google.com/webstore/detail/musicsig-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-vk/hanjiajgnonaobdlklncdjdmpbomlhoa) to download `.m3u` playlist from vk.com. Save it in the project folder.
 
 Part 2: Install dependencies of the project
 --------------------
@@ -24,7 +24,7 @@ After this, you will have songs.json in the same folder.
 Part 3: Import tracks to Spotify
 --------------------------------
 
-Go to [https://developer.spotify.com/my-applications/](Spotify developer console) and press `Create an app`.
+Go to [Spotify developer console](https://developer.spotify.com/my-applications/) and press `Create an app`.
 
 Give it a name and description and take `Client ID` and `Client Secret` and generate environment variables:
 
